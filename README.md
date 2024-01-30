@@ -32,5 +32,5 @@ To run Monty, follow these simple steps:
 
    This project is developed and maintained by a collaborative team:
 
-- [Yared Nigusie](https://github.com/mryadanigu)
-- [ABEL Chanyalew]()
+   - [Yared Nigusie](https://github.com/mryadanigu)
+   - [ABEL Chanyalew](https://github.com/abeleyasu)
