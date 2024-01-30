@@ -8,13 +8,6 @@ Monty is a stack-based interpreter written in C. It is designed to execute a set
 - **Error Handling:** Robust error handling to gracefully manage various scenarios, ensuring a stable interpreter.
 - **Data Structures:** Utilizes well-defined data structures, including a doubly linked list representation of a stack.
 
-## Team
-
-This project is developed and maintained by a collaborative team:
-
-- **ABEL Chanyalew**
-- **Yared Nigusie**
-
 ## Getting Started
 
 To run Monty, follow these simple steps:
@@ -33,3 +26,10 @@ To run Monty, follow these simple steps:
 
    ```bash
    ./monty your_script.m
+   
+   ## Team
+
+This project is developed and maintained by a collaborative team:
+
+- **ABEL Chanyalew**
+- **Yared Nigusie**
