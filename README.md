@@ -27,6 +27,8 @@ To run Monty, follow these simple steps:
    ```bash
    ./monty your_script.m
    
+   ```
+   
    `---`
    
    ## Team
