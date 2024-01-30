@@ -28,9 +28,6 @@ To run Monty, follow these simple steps:
    ./monty your_script.m
    
    ```
-   
-   `---`
-   
    ## Team
 
 This project is developed and maintained by a collaborative team:
