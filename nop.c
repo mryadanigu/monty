@@ -1,4 +1,3 @@
-/* nop.c */
 #include "monty.h"
 
 /**

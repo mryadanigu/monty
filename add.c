@@ -1,4 +1,3 @@
-/* add.c */
 #include "monty.h"
 
 /**

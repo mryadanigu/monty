@@ -1,4 +1,3 @@
-/* swap.c */
 #include "monty.h"
 
 /**

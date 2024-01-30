@@ -1,4 +1,3 @@
-/* pint.c */
 #include "monty.h"
 
 /**

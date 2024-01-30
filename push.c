@@ -1,4 +1,3 @@
-/* push.c */
 #include "monty.h"
 
 /**
