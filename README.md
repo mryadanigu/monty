@@ -30,7 +30,7 @@ To run Monty, follow these simple steps:
    ```
    ## Team
 
-This project is developed and maintained by a collaborative team:
+   This project is developed and maintained by a collaborative team:
 
-- **ABEL Chanyalew**
-- **Yared Nigusie**
+- [Yared Nigusie](https://github.com/mryadanigu)
+- [ABEL Chanyalew]()
