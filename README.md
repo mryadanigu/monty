@@ -1,6 +1,5 @@
 # Monty
 
-
 Monty is a stack-based interpreter written in C. It is designed to execute a set of specific opcode instructions, providing a simple and efficient tool for stack manipulation. The interpreter supports essential operations like push, pop, swap, add, and nop, each implemented in dedicated files to maintain code modularity.
 
 ## Features
@@ -8,27 +7,29 @@ Monty is a stack-based interpreter written in C. It is designed to execute a set
 - **Opcode Operations:** Execute stack manipulation operations using opcodes specified in your Monty script.
 - **Error Handling:** Robust error handling to gracefully manage various scenarios, ensuring a stable interpreter.
 - **Data Structures:** Utilizes well-defined data structures, including a doubly linked list representation of a stack.
-- - -
+
+## Team
+
+This project is developed and maintained by a collaborative team:
+
+- **ABEL Chanyalew**
+- **Yared Nigusie**
+
 ## Getting Started
 
 To run Monty, follow these simple steps:
 
- Clone the repository:
+1. **Clone the repository:**
 
    ```bash
    git clone https://github.com/mryadanigu/monty.git
    
- ### Compile the source code with this way:
- 
- ``gcc -Wall -Werror -Wextra -pedantic -std=c89 *.c -o monty``
- 
- ### Execute Monty with your script:
- 
- ``./monty your_script.m``
- - - -
- ## Team
+2. **Compile the source code:**
 
-This Project is developed and maintained by a collaborative team:
+   ```bash
+   gcc -Wall -Werror -Wextra -pedantic -std=c89 *.c -o monty
+   
+3. **Execute Monty with your script:**
 
-- **ABEL Chanyalew**
-- **Yared Nigusie**
+   ```bash
+   ./monty your_script.m
